@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>termius</id>
+    <version>5.4.1</version>
+	<packageSourceUrl>https://github.com/virtualex-itv/choco-termius/tree/master/</packageSourceUrl>
+    <owners>virtualex</owners>
+    <title>Termius</title>
+    <authors>Termius Corporation</authors>
+    <projectUrl>https://termius.com/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/virtualex-itv/choco-termius/a141c56e102e873032cd8c36fa373c13e8d0602c/_icon/4.png</iconUrl>
+    <copyright>Copyright © 2020 Termius Corporation.  All rights reserved.</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>termius ssh terminal securecrt mosh</tags>
+    <summary>Termius is the SSH client that works on Desktop and Mobile.</summary>
+    <description>Termius isn't a mere SSH client, it's a complete command-line solution. Securely access Linux or IoT devices from your Android or iOS mobile device, as well as any Windows, macOS, or Linux computer. It is Mosh-compatible, providing excellent reliability on high-latency constantly changing connections.</description>
+    <releaseNotes>https://docs.termius.com/changelog/desktop</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
