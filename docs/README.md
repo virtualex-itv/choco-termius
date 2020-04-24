@@ -11,4 +11,4 @@
 Chocolatey package for Termius
 
 ---
-![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-termius/0e667954b6b570ecc9260f9a22d43b15c34b4360/_img/choco-termius-test.png)
+![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-termius/25ca82c0ef00ec412abfb345c13c550044a7f25b/_img/choco-termius-test.png)
