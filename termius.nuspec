@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>termius</id>
-    <version>6.0.1</version>
+    <version>6.1.1</version>
 	<packageSourceUrl>https://github.com/virtualex-itv/choco-termius/tree/master/</packageSourceUrl>
     <owners>virtualex</owners>
     <title>Termius</title>
