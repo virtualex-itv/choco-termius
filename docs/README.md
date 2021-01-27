@@ -3,7 +3,7 @@
 [![Build status](https://img.shields.io/appveyor/ci/virtualex-itv/choco-termius/master.svg?logo=appveyor)](https://ci.appveyor.com/project/virtualex-itv/choco-termius)
 
 ![Supported OS](https://img.shields.io/badge/os-windows-blue.svg)
-![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2021.svg)
 
 #### VIRTUALEX'S PACKAGE NOTES:
 
@@ -11,4 +11,4 @@
 Chocolatey package for Termius
 
 ---
-![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-termius/610c7786dd982a8ae2b84df289175c3c0457bcf8/_img/choco-termius-test.png)
+![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-termius/2f0831184d590322ea552fb1c5e5ef31d0c136c3/_img/choco-termius-test.png)
