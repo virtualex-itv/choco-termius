@@ -3,14 +3,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>termius</id>
-    <version>7.3.1</version>
+    <version>7.4.1</version>
 	<packageSourceUrl>https://github.com/virtualex-itv/choco-termius/tree/master/</packageSourceUrl>
     <owners>virtualex</owners>
     <title>Termius</title>
     <authors>Termius Corporation</authors>
     <projectUrl>https://termius.com/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/virtualex-itv/choco-termius/a141c56e102e873032cd8c36fa373c13e8d0602c/_icon/4.png</iconUrl>
-    <copyright>Copyright © 2020 Termius Corporation.  All rights reserved.</copyright>
+    <copyright>Copyright © 2021 Termius Corporation.  All rights reserved.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>termius ssh terminal securecrt mosh</tags>
     <summary>Termius is the SSH client that works on Desktop and Mobile.</summary>
