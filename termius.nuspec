@@ -3,8 +3,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>termius</id>
-    <version>7.5.4</version>
-	<packageSourceUrl>https://github.com/virtualex-itv/choco-termius/tree/master/</packageSourceUrl>
+    <version>7.6.0</version>
+    <packageSourceUrl>https://github.com/virtualex-itv/choco-termius/tree/master/</packageSourceUrl>
     <owners>virtualex</owners>
     <title>Termius</title>
     <authors>Termius Corporation</authors>
@@ -15,8 +15,8 @@
     <tags>termius ssh terminal securecrt mosh</tags>
     <summary>Termius is the SSH client that works on Desktop and Mobile.</summary>
     <description>Termius isn't a mere SSH client, it's a complete command-line solution. Securely access Linux or IoT devices from your Android or iOS mobile device, as well as any Windows, macOS, or Linux computer. It is Mosh-compatible, providing excellent reliability on high-latency constantly changing connections.
-	
-	Please see the [**README**](https://github.com/virtualex-itv/choco-termius) for chocolatey-test-environment installation.</description>
+    
+    Please see the [**README**](https://github.com/virtualex-itv/choco-termius) for chocolatey-test-environment installation.</description>
     <releaseNotes>https://docs.termius.com/changelog/desktop</releaseNotes>
   </metadata>
   <files>
